@@ -1,0 +1,15 @@
+{
+    "name": "budipratama/format-rupiah",
+    "authors": [
+        {
+            "name": "boedipratama",
+            "email": "boedipratama19@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "budipratama\\formatrupiah\\": "src"
+        }
+    }
+}
