@@ -5,7 +5,8 @@
             "name": "boedipratama",
             "email": "boedipratama19@gmail.com"
         }
-    ],
+    ],    
+    "license": "BSD-3-Clause",
     "require": {},
     "autoload": {
         "psr-4": {
